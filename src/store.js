@@ -1,6 +1,3 @@
-// cardTitle = allCards[lists.cardIds[i]].title
-// cardContent = allCards[lists.cardIds[i]].content
-
 const STORE = {
     lists: [
       {
